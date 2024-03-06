@@ -1,4 +1,4 @@
-# stepsapp
+# Simple Project
 
 A new Flutter project.
 
